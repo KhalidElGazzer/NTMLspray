@@ -2,7 +2,7 @@
 Is password sprayer to attack AD-connected NTLM endpoints.
 
 `
-python ntlm_passwordspray.py -u <usernames_wordlist> -f <theDomainName> -p <password> -a <vuln_url>
+python ntlm_passwordspray.py -u <usernames_wordlist> -f <theDomainName> -p <password> -a <vuln_url>.
 `
 We provide the following values for each of the parameters:
 
